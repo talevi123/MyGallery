@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+
+    <string name="facebook_app_id">1133759446743782</string>
+
+    <string name="intro_title">My Gallery</string>
+    <string name="intro_desc">Show you all your photos in one place</string>
+    <string name="intro_btn">Get Started</string>
+
+    <string name="facebook">Facebook</string>
+    <string name="phone">Phone</string>
+
+    <string name="phone_sum">Phone sum is:</string>
+    <string name="facebook_sum">FB sum is:</string>
+    <string name="phone_time">Phone uploadTime:</string>
+    <string name="facebook_time">FB uploadTime:</string>
+
+    <string name="ms">ms</string>
+    <!-- https://graph.facebook.com/me/albums?fields=id&
+    access_token=" + loginResult.getAccessToken().getToken() -->
+
+    <!-- https://graph.facebook.com/" + albumId + "/photos?fields=created_time,picture&
+    access_token=" + loginResult.getAccessToken().getToken() -->
+
+</resources>
